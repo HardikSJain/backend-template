@@ -1,0 +1,17 @@
+{
+  "unique": {
+    "username": "User already exists",
+    "email": "User already exists",
+    "phone": "Phone number already exists"
+  },
+  "validation": {
+    "is_empty": "Field is required"
+  },
+  "error": {
+    "username_or_email_exists": "Username or phone already exists",
+    "email_exists": "Account with this phone already exists",
+    "not_found": "User not found",
+    "invalid_password": "Invalid credentials",
+    "invalid_token": "Invalid token"
+  }
+}
